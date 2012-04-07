@@ -4,7 +4,7 @@ Sudoku Breaker
 
 *Sudoku Breaker* is an simple application created for solving easy sudoku games.
 
-Use use nosetests to run all unittests.
+Use nosetests to run all unittests.
 
 Changelog
 ---------
