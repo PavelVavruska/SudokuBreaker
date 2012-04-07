@@ -1,4 +1,4 @@
-__author__ = 'develop'
+__author__ = '@PavelVavruska'
 
 import unittest
 from ..src.detector import Detector

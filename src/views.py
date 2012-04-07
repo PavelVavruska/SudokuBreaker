@@ -1,4 +1,4 @@
-__author__ = 'develop'
+__author__ = '@PavelVavruska'
 
 from src.utils.colors import bcolors
 

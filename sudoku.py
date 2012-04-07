@@ -1,4 +1,4 @@
-__author__ = 'develop'
+__author__ = '@PavelVavruska'
 
 from src.solver import Solver
 from src.views import write_it_down

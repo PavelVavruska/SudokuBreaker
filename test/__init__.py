@@ -1,1 +1,1 @@
-__author__ = 'develop'
+__author__ = '@PavelVavruska'
