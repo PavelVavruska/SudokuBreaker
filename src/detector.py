@@ -8,7 +8,7 @@ class Detector:
     def free_in_row(new_sudoku, y):
     # Searching for values in row
         now_available = Detector.available[:]
-        for xx in range(0,9):
+        for xx in range(0, 9):
             if new_sudoku[y][xx] in now_available:
                 now_available.remove(new_sudoku[y][xx])
         return now_available
@@ -17,7 +17,7 @@ class Detector:
     def free_in_column(new_sudoku, x):
     # Searching for values in column
         now_available = Detector.available[:]
-        for yy in range(0,9):
+        for yy in range(0, 9):
             if new_sudoku[yy][x] in now_available:
                 now_available.remove(new_sudoku[yy][x])
         return now_available

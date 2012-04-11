@@ -9,6 +9,12 @@ Use nosetests to run all unittests.
 Changelog
 ---------
 
+0.2
+~~~
+
+* PEP8
+* Improved comments
+
 0.1
 ~~~
 

@@ -7,6 +7,7 @@ from src.utils.colors import bcolors
 error_msg = '\nCode execution has been interrupted: ' \
             'Input sudoku is not in correct shape 9x9 numbers.'
 
+
 def main():
     error_detected = False
     """

@@ -2,6 +2,9 @@ __author__ = '@PavelVavruska'
 
 
 class bcolors:
+    """
+       Colored console output
+       """
     OKGREEN = '\033[92m'
     WARNING = '\033[93m'
     ERROR = '\033[91m'
